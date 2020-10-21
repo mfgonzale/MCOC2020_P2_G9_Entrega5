@@ -30,7 +30,7 @@ Peso : 400 ton (Sin cumplir requerimientos de cargas)
  
   * Peso = 474 ton
 
-Luego, se le aplico una funcion rediseñar fijando un t=1, iterando el FU y el radio de la barra buscando un cambio en 1mm 
+Para lograr la optimización de las barras se fijo el valor de t=1mm y se analizó la estructura 500 veces, de las cuales se va cambiando el valor de R. Si R cumple se queda ese valor, pero va cambiando de nuevo segun el valor de FU. Si FU es menor a 1 se busca disminuir el valor de R, y si FU es mayor a 1 se aumenta el valor de R, haciendo que FU sea lo más cercano posible a 1. 
  
  ![imagen](/Deformaciones_Finales.png)
  
