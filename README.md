@@ -5,7 +5,8 @@
 # PUENTE MILLENIUM 
 
 # Diseños preliminares.
-
+Para la entrega 5 se realizaron dos tipos de diseños de puentes, uno inspirado en el puente Golden Gate y otro inspirado en el Millenium de Londres, los que se presentan a continuación.
+  
 Puente Golden 
 
 ![imagen](/Puente_Golden.png)
